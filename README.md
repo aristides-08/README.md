@@ -1,8 +1,5 @@
 # README.md
 
-# Universidad de Costa Rica
-# Escuela de Geografía
-# Programación en SIG
 # Aristides García Cordero
 # B73114
 
@@ -35,6 +32,7 @@ La **corta de árboles peligrosos** es fundamental para **mejorar la seguridad p
 - Áreas Verdes
 - Riberas de Ríos y Quebradas
 - Aceras Públicas
+
 
 
 
