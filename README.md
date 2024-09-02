@@ -36,7 +36,9 @@ La **corta de árboles peligrosos** es fundamental para **mejorar la seguridad p
 
 ## Imágenes
 
-![Árbol en riesgo en Escazú]([https://example.com/arbol-en-riesgo.png](https://www.lateja.cr/resizer/v2/MUINBFZGAJEPDF3W5M7T3LFVGI.JPG?smart=true&auth=5d503a80a40ba7c996d6d510f3b8e89db81552f584d9ebe9ad4ea256407b6e13&width=1440&height=2167))
+![Árbol en riesgo en Escazú](https://www.lateja.cr/resizer/v2/MUINBFZGAJEPDF3W5M7T3LFVGI.JPG?smart=true&auth=5d503a80a40ba7c996d6d510f3b8e89db81552f584d9ebe9ad4ea256407b6e13&width=1440&height=2167)
+
+![Reforestación en el Parque Municipal](imagen_p1)
 
 ![Reforestación en el Parque Municipal](README.md/imagen_p1)
 
