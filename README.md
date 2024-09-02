@@ -20,6 +20,10 @@ Los datos fueron recolectados utilizando **Survey123** y procesados con **ArcGIS
 - **Altura y diámetro**: Se midieron los árboles para análisis detallados.
 Estos datos permitieron realizar un seguimiento continuo y evaluar el progreso de los proyectos de gestión forestal.
 
+## Archivos Shapefile
+En el marco del proyecto, se recopilaron y procesaron múltiples archivos **shapefile** que contienen información espacial detallada sobre los árboles en riesgo en diferentes áreas del cantón de Escazú. Estos archivos incluyen datos geoespaciales relacionados con la ubicación, el estado fitosanitario, el tipo de intervención y otras características clave. Los shapefiles son una herramienta esencial para la visualización y el análisis de la información espacial dentro del sistema ArcGIS Pro, permitiendo una toma de decisiones más efectiva y precisa en la gestión forestal.
+
+
 ## Problemas a Resolver
 1. ¿Qué árboles representan un riesgo para la seguridad pública y necesitan ser intervenidos de manera urgente?
 2. ¿Cómo se puede optimizar el uso de recursos en la gestión forestal mediante el uso de tecnologías SIG?
@@ -35,7 +39,6 @@ La **corta de árboles peligrosos** es fundamental para **mejorar la seguridad p
 
 
 ## Imágenes
-
 ![Árbol en riesgo en Escazú](https://www.lateja.cr/resizer/v2/MUINBFZGAJEPDF3W5M7T3LFVGI.JPG?smart=true&auth=5d503a80a40ba7c996d6d510f3b8e89db81552f584d9ebe9ad4ea256407b6e13&width=1440&height=2167)
 
 ![Árboles de seguimiento por Riesgo](imagen_p1.jpeg)
