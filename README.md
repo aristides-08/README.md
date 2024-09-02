@@ -47,7 +47,7 @@ Para más detalles sobre gestión forestal, visita [La Municipalidad de Escazú]
 
 
 ## Referencias
-- [Informe Final de Labores PAAL]([https://example.com/informe](https://docs.google.com/document/d/1H7hMhNGqxAXj2jajHflLrlBw_woNpxpqWH82D6VwbXU/edit?usp=sharing))
+- [Informe Final de Labores PAAL](https://docs.google.com/document/d/1H7hMhNGqxAXj2jajHflLrlBw_woNpxpqWH82D6VwbXU/edit?usp=sharing)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
   
 
