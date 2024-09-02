@@ -41,8 +41,6 @@ La **corta de árboles peligrosos** es fundamental para **mejorar la seguridad p
 ![Árboles de seguimiento por Riesgo](imágenes/imagen_p1)
 
 
-![Reforestación en el Parque Municipal](Imágenes/imagen_p1)
-
 
 
 
