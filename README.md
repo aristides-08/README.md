@@ -40,7 +40,7 @@ La **corta de árboles peligrosos** es fundamental para **mejorar la seguridad p
 
 ![Reforestación en el Parque Municipal](imagen_p1)
 
-![Reforestación en el Parque Municipal](README.md/imagen_p1)
+![Reforestación en el Parque Municipal](Imágenes/imagen_p1)
 
 
 
